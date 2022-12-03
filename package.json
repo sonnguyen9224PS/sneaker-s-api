@@ -1,0 +1,16 @@
+{
+  "name": "sneaker-s",
+  "version": "0.1.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "nguyenthaison",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0",
+    "json-server-auth": "^2.1.0",
+    "moment": "^2.29.4"
+  }
+}
