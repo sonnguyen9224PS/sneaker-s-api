@@ -52,14 +52,7 @@
       "price": 16000000,
       "categoryId": 1,
       "slug": "Nike Jordan 1",
-      "size": [
-        38,
-        39,
-        40,
-        41,
-        42,
-        43
-      ],
+      "size": [38, 39, 40, 41, 42, 43],
       "new": true,
       "sale": 0,
       "sold": 500,
@@ -87,14 +80,7 @@
       "price": 5500000,
       "categoryId": 1,
       "slug": "Giày Nike Kyrie 7",
-      "size": [
-        38,
-        39,
-        40,
-        41,
-        42,
-        43
-      ],
+      "size": [38, 39, 40, 41, 42, 43],
       "new": "false",
       "sale": 50,
       "sold": 500,
@@ -122,14 +108,7 @@
       "price": 1500000,
       "categoryId": 1,
       "slug": "Nike Dunk Low",
-      "size": [
-        38,
-        39,
-        40,
-        41,
-        42,
-        43
-      ],
+      "size": [38, 39, 40, 41, 42, 43],
       "new": true,
       "sale": 0,
       "sold": 500,
@@ -157,14 +136,7 @@
       "price": 7000000,
       "categoryId": 1,
       "slug": "Nike Air More Uptempo",
-      "size": [
-        38,
-        39,
-        40,
-        41,
-        42,
-        43
-      ],
+      "size": [38, 39, 40, 41, 42, 43],
       "new": false,
       "sale": 70,
       "sold": 1000,
@@ -192,14 +164,7 @@
       "price": 1500000,
       "categoryId": 2,
       "slug": "Vans Old Skool Mule",
-      "size": [
-        38,
-        39,
-        40,
-        41,
-        42,
-        43
-      ],
+      "size": [38, 39, 40, 41, 42, 43],
       "new": false,
       "sale": 50,
       "sold": 1200,
@@ -227,14 +192,7 @@
       "price": 1500000,
       "categoryId": 2,
       "slug": "Vans Style 36 Vintage Sport 'Sailor Blue'",
-      "size": [
-        38,
-        39,
-        40,
-        41,
-        42,
-        43
-      ],
+      "size": [38, 39, 40, 41, 42, 43],
       "new": false,
       "sale": 30,
       "sold": 1000,
@@ -262,14 +220,7 @@
       "price": 3000000,
       "categoryId": 2,
       "slug": "Vans The Simpsons 'Springfield' ",
-      "size": [
-        38,
-        39,
-        40,
-        41,
-        42,
-        43
-      ],
+      "size": [38, 39, 40, 41, 42, 43],
       "new": false,
       "sale": 30,
       "sold": 1500,
@@ -297,14 +248,7 @@
       "price": 200000,
       "categoryId": 2,
       "slug": "Vans Classic Slip-On 98 DX 'Aloha Navy'",
-      "size": [
-        38,
-        39,
-        40,
-        41,
-        42,
-        43
-      ],
+      "size": [38, 39, 40, 41, 42, 43],
       "new": true,
       "sale": 0,
       "sold": 1500,
@@ -332,14 +276,7 @@
       "price": 9000000,
       "categoryId": 11,
       "slug": "Asics BAPE x Gel 1090",
-      "size": [
-        38,
-        39,
-        40,
-        41,
-        42,
-        43
-      ],
+      "size": [38, 39, 40, 41, 42, 43],
       "new": true,
       "sale": 0,
       "sold": 1500,
@@ -367,14 +304,7 @@
       "price": 20000000,
       "categoryId": 11,
       "slug": "Adidas BAPE x Superstar 'Mixed Camo' ",
-      "size": [
-        38,
-        39,
-        40,
-        41,
-        42,
-        43
-      ],
+      "size": [38, 39, 40, 41, 42, 43],
       "new": true,
       "sale": 0,
       "sold": 500,
@@ -402,14 +332,7 @@
       "price": 50034000,
       "categoryId": 11,
       "slug": "Adidas BAPE x Superstar 'White Black' ",
-      "size": [
-        38,
-        39,
-        40,
-        41,
-        42,
-        43
-      ],
+      "size": [38, 39, 40, 41, 42, 43],
       "new": true,
       "sale": 0,
       "sold": 500,
@@ -437,14 +360,7 @@
       "price": 10900000,
       "categoryId": 11,
       "slug": "BAPE Sta Mi #2 M2 'BLA'",
-      "size": [
-        38,
-        39,
-        40,
-        41,
-        42,
-        43
-      ],
+      "size": [38, 39, 40, 41, 42, 43],
       "new": false,
       "sale": 30,
       "sold": 500,
@@ -472,14 +388,7 @@
       "price": 3200000,
       "categoryId": 14,
       "slug": "Lacoste 2019 SS Sneakers ",
-      "size": [
-        38,
-        39,
-        40,
-        41,
-        42,
-        43
-      ],
+      "size": [38, 39, 40, 41, 42, 43],
       "new": false,
       "sale": 70,
       "sold": 500,
@@ -507,14 +416,7 @@
       "price": 4100000,
       "categoryId": 14,
       "slug": "Lacoste Bayan Ayakkab Graduate ",
-      "size": [
-        38,
-        39,
-        40,
-        41,
-        42,
-        43
-      ],
+      "size": [38, 39, 40, 41, 42, 43],
       "new": false,
       "sale": 70,
       "sold": 500,
@@ -542,14 +444,7 @@
       "price": 5700000,
       "categoryId": 14,
       "slug": "Lacoste Brake RZ0040M51G-1Y5",
-      "size": [
-        38,
-        39,
-        40,
-        41,
-        42,
-        43
-      ],
+      "size": [38, 39, 40, 41, 42, 43],
       "new": false,
       "sale": 70,
       "sold": 500,
@@ -577,14 +472,7 @@
       "price": 8000000,
       "categoryId": 14,
       "slug": "Lacoste Storm 96 Lo Synthetic and Leather ",
-      "size": [
-        38,
-        39,
-        40,
-        41,
-        42,
-        43
-      ],
+      "size": [38, 39, 40, 41, 42, 43],
       "new": false,
       "sale": 70,
       "sold": 500,
@@ -603,6 +491,118 @@
           "id": 3,
           "productId": 16,
           "src": "https://product.hstatic.net/200000384421/product/41sfa0072_286_04_624af4c4a83e45a_31ed2215762248aebd58c0aa83f9f5a4.png"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "New Balance 530 'Steel Blue'",
+      "price": 4000000,
+      "categoryId": 3,
+      "slug": "New Balance 530 'Steel Blue'",
+      "size": [38, 39, 40, 41, 42, 43],
+      "new": true,
+      "sale": 0,
+      "sold": 200,
+      "images": [
+        {
+          "id": 1,
+          "productId": 17,
+          "src": "https://product.hstatic.net/200000384421/product/mr530kc.png_b1b295dbcb7d47089b9f_0431c341fae34f45ad69aa3b47ba940b.png"
+        },
+        {
+          "id": 2,
+          "productId": 17,
+          "src": "https://product.hstatic.net/200000384421/product/2000x__1__793251c11c6f45f49e8d7a_3c66b93b2e8e48269cd851c0d2b95be4.jpg"
+        },
+        {
+          "id": 3,
+          "productId": 17,
+          "src": "https://product.hstatic.net/200000384421/product/2000x__2__5618c7de3d0a41daae6616_c0286f88fd5d4a9ebc3baad47a39aee9.jpg"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "New Balance 550 'Shifted Sport Pack Team Royal'",
+      "price": 5000000,
+      "categoryId": 3,
+      "slug": "New Balance 550 'Shifted Sport Pack Team Royal'",
+      "size": [38, 39, 40, 41, 42, 43],
+      "new": true,
+      "sale": 0,
+      "sold": 200,
+      "images": [
+        {
+          "id": 1,
+          "productId": 18,
+          "src": "https://product.hstatic.net/200000384421/product/815467_01.jpg_34a77edcaf91491a9b_c73ad382193c40beaf1ffd9ca063673e.png"
+        },
+        {
+          "id": 2,
+          "productId": 18,
+          "src": "https://product.hstatic.net/200000384421/product/httpsshop.newbalance.jpshopggbb5_d079385aa1ca422abda7815473b973a1.jpg"
+        },
+        {
+          "id": 3,
+          "productId": 18,
+          "src": "https://product.hstatic.net/200000384421/product/i8v265j6l2w81_e7214cc54e5a441b905904f351066ac0.jpg"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Adidas 4DFWD 'Tokyo'",
+      "price": 6000000,
+      "categoryId": 4,
+      "slug": "Adidas 4DFWD 'Tokyo'",
+      "size": [38, 39, 40, 41, 42, 43],
+      "new": true,
+      "sale": 0,
+      "sold": 700,
+      "images": [
+        {
+          "id": 1,
+          "productId": 19,
+          "src": "https://product.hstatic.net/200000384421/product/792346_01.jpg_6bb5b836a97c442d9f_16571c61da214366b5dad801ee2d5c3b.png"
+        },
+        {
+          "id": 2,
+          "productId": 19,
+          "src": "https://product.hstatic.net/200000384421/product/a2dac8aa1feef2eaba8b12691113893b_913fd72266fc4a6b93a7a7e8f4c7cfda.jpg"
+        },
+        {
+          "id": 3,
+          "productId": 19,
+          "src": "https://product.hstatic.net/200000384421/product/adidas-4dfwd-tokyo-q46443-releas_35b39ff888a847359fec571285a25a87.jpg"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Adidas Yeezy Boost 350 V2 Blue Tint ",
+      "price": 9000000,
+      "categoryId": 4,
+      "slug": "Adidas Yeezy Boost 350 V2 Blue Tint ",
+      "size": [38, 39, 40, 41, 42, 43],
+      "new": true,
+      "sale": 0,
+      "sold": 600,
+      "images": [
+        {
+          "id": 1,
+          "productId": 20,
+          "src": "https://product.hstatic.net/200000384421/product/thiet_ke_khong_ten__16__3d0c9208_48bb72b0c95a44d6be92fd8e159f3247.png"
+        },
+        {
+          "id": 2,
+          "productId": 20,
+          "src": "https://product.hstatic.net/200000384421/product/-50-mau-giay-adidas-yeezy-hot-tr_bf113c966d9b48cfa47fc7ce8ed8db2c.png"
+        },
+        {
+          "id": 3,
+          "productId": 20,
+          "src": "https://product.hstatic.net/200000384421/product/2402270c48f25aa47674725fec327f26_5e113e65d04849adb45bfbf8b6433748.png"
         }
       ]
     }
